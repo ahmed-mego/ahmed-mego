@@ -6,7 +6,8 @@
   </a>
 </p>
 
-![](https://media.giphy.com/media/3o7aD4Q3A9T4IFipZ6/giphy.gif)
+![](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+
 
 ### 🤖 About Me
 
