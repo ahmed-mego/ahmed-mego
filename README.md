@@ -1,25 +1,12 @@
 # Hi there! 👋 I'm Ahmed Magdy
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-magdy-641a22214/" target="_blank">
-    <img 
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" 
-      alt="Ahmed Magdy LinkedIn" 
-      height="30" width="30" 
-      style="fill:#0288D1;"/>
-  </a>
-</p>
-
-
-
 ### 🤖 About Me
 
 - 🔧 I'm a **Mechatronics & Robotics Engineer**
-- 🚀 Passionate about **robotics, embedded systems**, and real-time control
-- 💡 Currently working on robotic systems using **ESP32**, **STM32**, and **ROS2**
+- 🚀 Passionate about **robotics, embedded systems, real-time control**, and real-time control
+- 💡 Currently working on robotic systems
 - 💬 Let’s talk about autonomous systems, drones, or microcontrollers!
-- 🏊 I love **swimming**, solving challenging problems, and constantly **learning**
-
+  
 ---
 
 ### 🛠️ Tech Stack
@@ -48,17 +35,10 @@
   </a>
 </div>
 
-
-
 ---
 
 ### 🧠 A Quote I Like
 
-> “The best way to predict the future is to invent it.” – Alan Kay
+> “The best way to predict the future is to invent it.”
 
 ---
-
-### 😄 Just for Fun
-
-<img src="https://readme-jokes.vercel.app/api" alt="Joke Card" />
-
