@@ -19,12 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" width="60" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Freertos_logo.svg" alt="freertos" width="70" height="55"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Zephyr_Project_Logo.svg/2560px-Zephyr_Project_Logo.svg.png" alt="zephyr" width="70" height="55"/>
-  <img src="https://raw.githubusercontent.com/ros2/rviz/master/rviz_default_plugins/resources/images/rviz_logo.png" alt="rviz2" width="55" height="55"/>
-</p>
-
-
+  
 ---
 
 ### 📊 GitHub Stats
