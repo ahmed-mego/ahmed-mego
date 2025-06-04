@@ -30,7 +30,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/arm.svg" alt="arm" width="60" height="60"/>
 <img src="https://opencv.org/wp-content/uploads/2022/07/OpenCV_logo.png" alt="opencv" width="60" height="60" style="object-fit:contain;"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Gazebo_icon.png" alt="gazebo" width="60" height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/OpenCV_logo_with_text.svg" alt="opencv" width="60" height="60" />
+
 
 </p>
 
