@@ -24,10 +24,16 @@
   <img src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" alt="ros2" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/stmicroelectronics/stmicroelectronics-icon.svg" alt="stm32" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/matlab/matlab-icon.svg" alt="matlab" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/stmicroelectronics/stmicroelectronics-icon.svg" alt="stm32" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/arm.svg" alt="arm" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Espressif_logo.svg" alt="esp-idf" width="100" height="40"/>
+
+
+  
 </p>
 
 ---
