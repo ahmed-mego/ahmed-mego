@@ -26,7 +26,7 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/stmicroelectronics/stmicroelectronics-icon.svg" alt="stm32" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-icon.svg" alt="cpp" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/matlab/matlab-icon.svg" alt="matlab" width="60" height="60"/>
 </p>
 
