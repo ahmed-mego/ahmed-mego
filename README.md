@@ -34,13 +34,13 @@
 
 ### 📊 GitHub Stats
 
-<div style="max-width: 220px; margin-bottom: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-mego&show_icons=true&theme=gruvbox" alt="Ahmed's GitHub stats" style="width: 100%; height: auto; border-radius: 6px;"/>
+<div style="transform: scale(0.7); transform-origin: top left; width: 280px; margin-bottom: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-mego&show_icons=true&theme=gruvbox" alt="Ahmed's GitHub stats" style="border-radius: 6px;"/>
 </div>
 
-<div style="max-width: 150px;">
+<div style="transform: scale(0.7); transform-origin: top left; width: 190px;">
   <a href="https://github.com/ahmed-mego/github-readme-stats" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-mego&layout=compact&theme=gruvbox" alt="Top languages" style="width: 100%; height: auto; border-radius: 6px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-mego&layout=compact&theme=gruvbox" alt="Top languages" style="border-radius: 6px;"/>
   </a>
 </div>
 
