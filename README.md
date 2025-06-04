@@ -5,8 +5,7 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Ahmed Magdy LinkedIn" height="30" width="30" />
   </a>
 </p>
-
-![](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
+![](https://media.giphy.com/media/3o7aD4Q3A9T4IFipZ6/giphy.gif)
 
 ### 🤖 About Me
 
