@@ -19,6 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" width="60" height="60"/>
+  <img src="https://seeklogo.com/images/A/autodesk-fusion-360-logo-A8726E0C36-seeklogo.com.png" alt="fusion360" width="60" height="60"/>
 </p>
 
 ---
