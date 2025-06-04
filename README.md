@@ -3,9 +3,9 @@
 ### 🤖 About Me
 
 - 🔧 I'm a **Mechatronics & Robotics Engineer**
-- 🚀 Passionate about **robotics, embedded systems, real-time control**, and real-time control
+- 🚀 Passionate about **robotics, embedded systems**, and **real-time control**
 - 💡 Currently working on robotic systems
-- 💬 Let’s talk about autonomous systems, drones, or microcontrollers!
+- 💬 Let’s talk about autonomous systems,robotic arms, drones or microcontrollers!
   
 ---
 
