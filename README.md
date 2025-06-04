@@ -22,6 +22,7 @@
 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" alt="ros2" width="55" height="55"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Gazebo_icon.png/600px-Gazebo_icon.png" width="30" />
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
