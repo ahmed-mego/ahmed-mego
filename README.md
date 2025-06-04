@@ -28,19 +28,21 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/arm.svg" alt="arm" width="60" height="60"/>
-<img src="https://opencv.org/wp-content/uploads/2022/07/OpenCV_logo.png" alt="opencv" width="60" height="60" style="object-fit:contain;"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/OpenCV_logo_with_text.svg" alt="opencv" width="60" height="60" />
-
-
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=gruvbox)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+<div style="max-width: 420px; margin-bottom: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-mego&show_icons=true&theme=gruvbox" alt="Ahmed's GitHub stats" style="width: 100%; height: auto; border-radius: 10px;"/>
+</div>
+
+<div style="max-width: 280px;">
+  <a href="https://github.com/ahmed-mego/github-readme-stats" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-mego&layout=compact&theme=gruvbox" alt="Top languages" style="width: 100%; height: auto; border-radius: 10px;"/>
+  </a>
+</div>
 
 ---
 
