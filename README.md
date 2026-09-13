@@ -11,26 +11,6 @@
 
 ---
 
-### 🛠️ Technologies & Tools
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" alt="ROS 2" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="55" height="55"/>
-</p>
-
-### 🔌 Embedded Systems
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="Embedded C" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stm32/stm32-original.svg" alt="STM32" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/freertos/freertos-original.svg" alt="FreeRTOS" width="55" height="55"/>
-</p>
-
 **STM32 • FreeRTOS • HAL/LL • CAN/FDCAN • Timers • PWM • Interrupts • GPIO • Embedded C**
 
 ### 🤖 Robotics
@@ -58,26 +38,6 @@ The low-level firmware includes:
 * 📦 Motion-command FIFO buffering
 * 🎯 Pulse-error accumulation for improved positional accuracy
 * 🛡️ Hardware-driven safety handling
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ahmed-mego&show_icons=true&theme=gruvbox&hide_border=true" alt="Ahmed's GitHub stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-mego&layout=compact&theme=gruvbox&hide_border=true" alt="Top languages"/>
-
-</div>
-
----
-
-### 🧠 A Quote I Like
-
-> “The best way to predict the future is to invent it.”
-
----
 
 ### 🤝 Let's Connect
 
